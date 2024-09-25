@@ -1,0 +1,9 @@
+D:\Project\KUHTOOL\KUHTOOL\bin\x64\Debug\KUHTOOL.exe.config
+D:\Project\KUHTOOL\KUHTOOL\bin\x64\Debug\KUHTOOL.exe
+D:\Project\KUHTOOL\KUHTOOL\bin\x64\Debug\KUHTOOL.pdb
+D:\Project\KUHTOOL\KUHTOOL\obj\x64\Debug\KUHTOOL.KUHTOOL.resources
+D:\Project\KUHTOOL\KUHTOOL\obj\x64\Debug\KUHTOOL.Properties.Resources.resources
+D:\Project\KUHTOOL\KUHTOOL\obj\x64\Debug\KUHTOOL.csproj.GenerateResource.Cache
+D:\Project\KUHTOOL\KUHTOOL\obj\x64\Debug\KUHTOOL.exe.licenses
+D:\Project\KUHTOOL\KUHTOOL\obj\x64\Debug\KUHTOOL.exe
+D:\Project\KUHTOOL\KUHTOOL\obj\x64\Debug\KUHTOOL.pdb
